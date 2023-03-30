@@ -41,6 +41,32 @@ R2 Demonstration
 - For those who are waiting, try the following
   - Sort Two Numbers [https://open.kattis.com/problems/sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers)
 
+*Slide 38*
+
+- Odd Echo demonstration
+- General idea:
+  - Read 1 integer, N, from input
+  - Loop N times 
+    - each time reading a string from input
+    - if this iteration is an odd iteration, print the string
+
+*Slide 44*
+
+- URL: [https://codebreaker.xyz/problem/sumint](https://codebreaker.xyz/problem/sumint)
+
+*Slide 45*
+
+- URL: [https://codebreaker.xyz/problem/3nplus1](https://codebreaker.xyz/problem/3nplus1)
+
+*Slide 48*
+
+- We don't have an online-judge version of the Square problem, but you can go to [https://www.tutorialspoint.com/cplusplus-program-to-print-square-star-pattern](https://www.tutorialspoint.com/cplusplus-program-to-print-square-star-pattern) for a description of the problem.
+
+*Slide 49*
+
+- For students who are waiting, try the following:
+  - Make the Square a hollow one, i.e. only print the borders of the square.
+
 - [evenorodd](https://codebreaker.xyz/problem/evenorodd)
 - [sumint](https://codebreaker.xyz/problem/sumint)
 - [quadrant](https://open.kattis.com/problems/quadrant)
