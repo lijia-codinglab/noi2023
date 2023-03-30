@@ -67,6 +67,13 @@ R2 Demonstration
 - For students who are waiting, try the following:
   - Make the Square a hollow one, i.e. only print the borders of the square.
 
-- [evenorodd](https://codebreaker.xyz/problem/evenorodd)
-- [sumint](https://codebreaker.xyz/problem/sumint)
-- [quadrant](https://open.kattis.com/problems/quadrant)
+*Slide 52*
+
+Home Fun
+- PSLE: [https://codebreaker.xyz/problem/psle](https://codebreaker.xyz/problem/psle)
+- Quardrant: [https://open.kattis.com/problems/quadrant](https://open.kattis.com/problems/quadrant)
+- FizzBuzz: [https://codebreaker.xyz/problem/fizzbuzz](https://codebreaker.xyz/problem/fizzbuzz)
+- Tower Construction: [https://open.kattis.com/problems/tornbygge](https://open.kattis.com/problems/tornbygge)
+- :star: Mia: [https://open.kattis.com/problems/mia](https://open.kattis.com/problems/mia)
+- :star: 99 Problems: [https://open.kattis.com/problems/99problems](https://open.kattis.com/problems/99problems)
+
